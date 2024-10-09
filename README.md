@@ -6,5 +6,7 @@ I'm a BSc Computer Science student passionate about coding and exploring new tec
 
 - Java
 - C
+- SQL
+- Python
 ## Let's Code Together! 🚀
 
