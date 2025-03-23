@@ -16,4 +16,4 @@ I'm a **BSc Computer Science** student passionate about **cybersecurity, full-st
 ## **📢 Let's Connect!**  
 🔗 **LinkedIn:** [shyampillai07](https://www.linkedin.com/in/shyampillai07)  
 🔗 **Instagram:** [shyammpillai](https://www.instagram.com/shyammpillai)  
-🔗 **GitHub:** [GitHub Profile](https://github.com/yourusername)
+🔗 **GitHub:** [GitHub Profile](https://github.com/shyampillai07)
