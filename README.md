@@ -3,7 +3,6 @@
 I'm a **Master of Computer Applications (MCA) student at Visvesvaraya Technological University, Mysuru**, and I have completed my **BSc in Computer Science**.  
 I’m passionate about **cybersecurity, full-stack development, and AI**, and I enjoy building secure and innovative applications.
 
----
 
 ## 🚀 Projects & What I'm Working On
 
@@ -21,7 +20,6 @@ Using tools like **SQLmap**, **Hashcat**, and more.
 ### 🤖 AI + Security Exploration
 Experimenting with integrating **AI-driven features** into security tools and web apps.
 
----
 
 ## 🛠 Skills & Technologies
 
@@ -49,9 +47,8 @@ Experimenting with integrating **AI-driven features** into security tools and we
 ### 🗄️ Databases
 - MongoDB  
 - SQLite  
-- JSON Storage  
-
----
+- JSON Storage
+  
 
 ## 📫 Connect With Me
 
@@ -59,4 +56,3 @@ Experimenting with integrating **AI-driven features** into security tools and we
 - **Instagram:** [shyammpillai](https://www.instagram.com/shyammpillai)  
 - **GitHub:** [github.com/shyampillai07](https://github.com/shyampillai07)
 
----
