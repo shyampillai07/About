@@ -1,19 +1,62 @@
-# **Hello, I'm Shyam Pillai 👋**  
+# 👋 Hello, I'm Shyam Pillai
 
-I'm a **BSc Computer Science** student passionate about **cybersecurity, full-stack development, and AI**. I enjoy building innovative projects and exploring the latest technologies.  
+I'm a **Master of Computer Applications (MCA) student at Visvesvaraya Technological University, Mysuru**, and I have completed my **BSc in Computer Science**.  
+I’m passionate about **cybersecurity, full-stack development, and AI**, and I enjoy building secure and innovative applications.
 
-## **🚀 What I'm Working On**  
-- **Web Application Firewall (WAF)** – A Flask and React-based security tool to detect and block common web threats, using **MongoDB Atlas** for persistent storage.  
-- **Cybersecurity & Penetration Testing** – Demonstrating **SQL Injection & password cracking** using **DVWA in Docker on Kali Linux**.  
-- Exploring AI applications and integrating security features into web apps.  
+---
 
-## **🛠 Skills & Technologies**  
-- **Programming:** Python, Java, SQL  
-- **Web Development:** React.js, Flask, Node.js, JavaScript, Tailwind CSS  
-- **Cybersecurity:** Kali Linux, Ethical Hacking, Web Security, Hashcat, SQLmap  
-- **Databases:** MongoDB, SQLite, JSON Storage  
+## 🚀 Projects & What I'm Working On
 
-## **📢 Let's Connect!**  
-🔗 **LinkedIn:** [shyampillai07](https://www.linkedin.com/in/shyampillai07)  
-🔗 **Instagram:** [shyammpillai](https://www.instagram.com/shyammpillai)  
-🔗 **GitHub:** [GitHub Profile](https://github.com/shyampillai07)
+### 🔐 Web Application Firewall (WAF)
+A custom security system built using **Flask + React**, designed to detect and block common web threats.  
+Uses **MongoDB Atlas** for persistent logging and threat analysis.
+
+### 🛡️ Cybersecurity & Penetration Testing
+Hands-on demonstrations using **DVWA on Docker (Kali Linux)** covering:  
+- SQL Injection  
+- Password Cracking  
+- Web Vulnerability Exploitation  
+Using tools like **SQLmap**, **Hashcat**, and more.
+
+### 🤖 AI + Security Exploration
+Experimenting with integrating **AI-driven features** into security tools and web apps.
+
+---
+
+## 🛠 Skills & Technologies
+
+### 🧑‍💻 Programming
+- Python  
+- Java  
+- C  
+- SQL  
+
+### 🌐 Web Development
+- React.js  
+- JavaScript  
+- Node.js  
+- Flask  
+- Tailwind CSS  
+
+### 🔒 Cybersecurity
+- Kali Linux  
+- Ethical Hacking  
+- SQLmap  
+- Hashcat  
+- Docker  
+- Web Application Security  
+
+### 🗄️ Databases
+- MongoDB  
+- SQLite  
+- JSON Storage  
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [shyampillai07](https://www.linkedin.com/in/shyampillai07)  
+- **Instagram:** [shyammpillai](https://www.instagram.com/shyammpillai)  
+- **GitHub:** [github.com/shyampillai07](https://github.com/shyampillai07)
+
+---
