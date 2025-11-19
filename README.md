@@ -4,7 +4,7 @@ I'm a **Master of Computer Applications (MCA) student at Visvesvaraya Technologi
 I’m passionate about **cybersecurity, full-stack development, and AI**, and I enjoy building secure and innovative applications.
 
 
-## 🚀 Projects & What I'm Working On
+## 🚀 My Projects 
 
 ### 🔐 Web Application Firewall (WAF)
 A custom security system built using **Flask + React**, designed to detect and block common web threats.  
